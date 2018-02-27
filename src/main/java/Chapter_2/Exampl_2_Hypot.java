@@ -1,6 +1,6 @@
 package Chapter_2;
 
-public class Exampl_2_Typot {
+public class Exampl_2_Hypot {
     public static void main(String[] args) {
         double x, y, z;
 

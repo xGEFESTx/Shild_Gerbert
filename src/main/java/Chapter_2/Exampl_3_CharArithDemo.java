@@ -7,9 +7,9 @@ public class Exampl_3_CharArithDemo {
         System.out.println("ch содержит " + ch);
 
         ch++;
-        System.out.println("ch содержит " + ch);
+        System.out.println("Теперь ch содержит " + ch + ", была произведена инкрементация значения этого символа");
 
         ch = 90;
-        System.out.println("ch содержит " + ch);
+        System.out.println("ch присвоено значение 90 и теперь он содержит " + ch);
     }
 }
